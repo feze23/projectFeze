@@ -23,6 +23,8 @@ input{
     border-radius: 7px;
 }
 
+
+
 .btn-login{
     position: relative;
     top: 12px;
@@ -43,4 +45,10 @@ input{
 .errorMessage{
     color: red;
     display: none;
+}
+.btn-accountCreated{
+    position: relative;
+    left: 51%;
+    width: 20%;
+    height: 20%;
 }
